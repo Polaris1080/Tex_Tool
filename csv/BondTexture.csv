@@ -1,0 +1,3 @@
+Rchannel,Bchannel,Gchannel,Achannel,Output
+../image/Tex_R.png,../image/Tex_G.png,../image/Tex_B.png,../image/Tex_A.png,../result/Bond/Result_RGBA.png
+../image/Tex_R.png,../image/Tex_G.png,../image/Tex_B.png,,../result/Bond/Result_RGB.png

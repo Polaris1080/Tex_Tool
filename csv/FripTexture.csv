@@ -1,0 +1,11 @@
+Input,Output,mode,mirror_R,mirror_G,mirror_B,mirror_A,flip_R,flip_G,flip_B,flip_A,order_R,order_G,order_B,order_A
+../image/Origin_RGB.png,../result/Flip/RGB-image_RGBA-mode.png,RGBA,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,1 ,2 ,3 
+../image/Origin_RGB.png,../result/Flip/RGB-image_RGB-mode.png,RGB,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,1 ,2 ,3 
+../image/Origin_RGBA.png,../result/Flip/RGBA-image_RGBA-mode.png,RGBA,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,1 ,2 ,3 
+../image/Origin_RGBA.png,../result/Flip/RGBA-image_RGB-mode.png,RGB,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,1 ,2 ,3 
+../image/Origin_RGBA.png,../result/Flip/mirror.png,RGBA,1 ,1 ,1 ,1 ,0 ,0 ,0 ,0 ,0 ,1 ,2 ,3 
+../image/Origin_RGBA.png,../result/Flip/flip.png,RGBA,0 ,0 ,0 ,0 ,1 ,1 ,1 ,1 ,0 ,1 ,2 ,3 
+../image/Origin_RGBA.png,../result/Flip/mirror-flip.png,RGBA,1 ,1 ,1 ,1 ,1 ,1 ,1 ,1 ,0 ,1 ,2 ,3 
+../image/Origin_RGBA.png,../result/Flip/move-R.png,RGBA,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,3 
+../image/Origin_RGBA.png,../result/Flip/move-G.png,RGBA,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,1 ,1 ,1 ,3 
+../image/Origin_RGBA.png,../result/Flip/move-B.png,RGBA,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,2 ,2 ,2 ,3 

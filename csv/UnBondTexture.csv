@@ -1,0 +1,3 @@
+Rchannel,Bchannel,Gchannel,Achannel,Input
+../result/UnBond/RGBA_R.png,../result/UnBond/RGBA_G.png,../result/UnBond/RGBA_B.png,../result/UnBond/RGBA_A.png,../image/Origin_RGBA.png
+../result/UnBond/RGB_R.png,../result/UnBond/RGB_G.png,../result/UnBond/RGB_B.png,,../image/Origin_RGB.png
