@@ -1,0 +1,1 @@
+C:\tools\Anaconda3\Library\bin\pyuic5 -o _TexToolGUI.py TexToolGUI.ui
